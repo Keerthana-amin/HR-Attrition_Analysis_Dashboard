@@ -19,7 +19,7 @@ Power BI Desktop,
 SQL Server,
 Microsoft Excel / CSV.
 
-** 💡 Business Problems & Impact
+## 💡 Business Problems & Impact
 1. Attrition Visibility — The company lacks visibility into how many employees are leaving.
    ➡️ Helps in workforce planning, budgeting, and setting retention KPIs.
    
