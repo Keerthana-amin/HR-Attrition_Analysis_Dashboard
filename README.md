@@ -5,7 +5,7 @@ An interactive dashboard built using Power BI and SQL Server to analyze employee
 This project explores employee attrition patterns across departments, job roles, salary, education, and satisfaction levels. Data is stored and queried in SQL Server, cleaned in Excel, and visualized in Power BI.
 
 ## 📌 Key Metrics
-### * Total Employees: 10,000
+###  Total Employees: 10,000
 ### * Total Attrition: 2,247
 ### * Attrition Rate: 22.47%
 ### * Active Employees: 7,753
